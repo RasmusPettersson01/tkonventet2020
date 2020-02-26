@@ -3,6 +3,10 @@
  * your custom CSS modifications here.
  */
 body {
-   background-color: green;
+   background-color: blue;
+   color:pink;
+}
 
+h1 {
+  color: teal;
 }
