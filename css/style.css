@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * If using a CSS pre-processor, tell it to overwrite this file. If not, place
  * your custom CSS modifications here.
@@ -9,3 +10,12 @@ body {
 h1 {
   color: purple;
 }
+=======
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+body {
+   background-color: #e8e8e8;
+}
+>>>>>>> b697d4eb0653fa1721399ff13c3328ef05dc928b
