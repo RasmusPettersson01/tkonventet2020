@@ -1,7 +1,29 @@
+
 /**
  * If using a CSS pre-processor, tell it to overwrite this file. If not, place
  * your custom CSS modifications here.
  */
 body {
+
    background-color: #e8e8e8;
+}
+
+.main-container.container.js-quickedit-main-content {
+    min-height: 70vh;
+}
+
+.footer.container {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+
+.footer {
+  border-top: none;
+  background-image: url(/themes/tkonventet2020/images/footer-back.svg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding-top: 120px;
 }
