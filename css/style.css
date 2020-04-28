@@ -6,3 +6,20 @@ body {
    background-color: green;
 
 }
+
+.main-container.container.js-quickedit-main-content{
+  margin: 0;
+  width: 100%;
+}
+
+.region.region-header .name.navbar-brand{
+  float: none;
+}
+
+.region.region-header .navbar-text{
+  float: none;
+  text-align: center;
+}
+.page-header{
+  border-bottom: none;
+}
