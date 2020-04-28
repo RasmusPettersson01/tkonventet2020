@@ -1,8 +1,22 @@
 
-/**
- * If using a CSS pre-processor, tell it to overwrite this file. If not, place
- * your custom CSS modifications here.
- */
+.main-container.container.js-quickedit-main-content{
+  margin: 0;
+  width: 100%;
+}
+
+.region.region-header .name.navbar-brand{
+  float: none;
+}
+
+.region.region-header .navbar-text{
+  float: none;
+  text-align: center;
+}
+.page-header{
+  border-bottom: none;
+}
+
+
 body {
 
    background-color: #e8e8e8;
@@ -95,6 +109,7 @@ p {
   margin-left: 5px;
 }
 
+<<<<<<< HEAD
 img {
 width: 350px;
 height: 70px;
@@ -118,4 +133,6 @@ width: 100%;
 max-width: 100%;
 margin-top: -13px;
 }
+=======
+>>>>>>> 0b08b3a7a32250d68e0ce3c306e56fa6f1083357
 
