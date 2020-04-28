@@ -1,11 +1,3 @@
-/**
- * If using a CSS pre-processor, tell it to overwrite this file. If not, place
- * your custom CSS modifications here.
- */
-body {
-   background-color: green;
-
-}
 
 .main-container.container.js-quickedit-main-content{
   margin: 0;
@@ -23,3 +15,98 @@ body {
 .page-header{
   border-bottom: none;
 }
+
+
+body {
+
+   background-color: #e8e8e8;
+}
+
+.main-container.container.js-quickedit-main-content {
+    min-height: 70vh;
+}
+
+.footer.container {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+
+.footer {
+  border-top: none;
+  background-image: url(/themes/tkonventet2020/images/footer-back.svg);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding-top: 120px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > h2:nth-child(6) > a:nth-child(1) {
+  font-size: 45px;
+}
+
+/* bootstrap.css | https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css */
+
+h2, .h2 {
+  /* font-size: 30px; */
+  font-size: 38px;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(24) > a:nth-child(1) {
+  margin-left: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(24) > a:nth-child(3) {
+  margin-left: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(24) > a:nth-child(4) {
+  margin-left: 10px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(24) > a:nth-child(2) {
+  margin-left: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(22) > a:nth-child(1) {
+  margin-left: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(22) > a:nth-child(2) {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(22) > a:nth-child(3) {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(22) > a:nth-child(4) {
+  margin-left: 5px;
+}
+
+
