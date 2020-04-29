@@ -119,3 +119,73 @@ width: 100%;
 max-width: 100%;
 margin-top: -13px;
 }
+
+
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > h2:nth-child(2) > a:nth-child(1) {
+  margin-left: 190px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > h2:nth-child(4) {
+  margin-left: 140px;
+}
+
+/* style.css | https://08a68e7c.ngrok.io/themes/tkonventet2020/css/style.css?q9hvvl */
+
+p {
+  margin-left: 140px;
+  margin-right: 140px;
+}
+
+h2, .h2 {
+  margin-left: 140px;
+}
+
+.field > p:nth-child(22) > a:nth-child(1) {
+  /* margin-left: 5px; */
+  margin-left: 30px;
+  font-size: 30px;
+}
+
+.field > p:nth-child(22) > a:nth-child(2) {
+  /* margin-left: 5px; */
+  margin-left: 30px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > ul:nth-child(7) {
+  margin-left: 133px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(5) {
+  margin-top: 20px;
+}
+
+/* bootstrap.css | https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css */
+
+h3, .h3 {
+  margin-left: 140px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(22) {
+  margin-left: 37%;
+  font-size: 30px;
+  margin-top: 80px;
+}
+
+/* Element | https://08a68e7c.ngrok.io/ */
+
+.field > p:nth-child(23) > a:nth-child(1) {
+  font-size: 23px;
+  margin-left: 350px;
+}
+
