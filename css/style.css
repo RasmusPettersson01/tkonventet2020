@@ -59,73 +59,59 @@ p {
   font-size: 16px;
 }
 
-/* Element | https://08a68e7c.ngrok.io/ */
-
 .field > p:nth-child(24) > a:nth-child(1) {
   margin-left: 5px;
 }
-
-/* Element | https://08a68e7c.ngrok.io/ */
 
 .field > p:nth-child(24) > a:nth-child(3) {
   margin-left: 5px;
 }
 
-/* Element | https://08a68e7c.ngrok.io/ */
-
 .field > p:nth-child(24) > a:nth-child(4) {
   margin-left: 10px;
 }
-
-/* Element | https://08a68e7c.ngrok.io/ */
 
 .field > p:nth-child(24) > a:nth-child(2) {
   margin-left: 5px;
 }
 
-/* Element | https://08a68e7c.ngrok.io/ */
-
 .field > p:nth-child(22) > a:nth-child(1) {
   margin-left: 5px;
 }
-
-/* Element | https://08a68e7c.ngrok.io/ */
 
 .field > p:nth-child(22) > a:nth-child(2) {
   margin-left: 5px;
   margin-right: 5px;
 }
 
-/* Element | https://08a68e7c.ngrok.io/ */
-
 .field > p:nth-child(22) > a:nth-child(3) {
   margin-left: 5px;
   margin-right: 5px;
 }
 
-/* Element | https://08a68e7c.ngrok.io/ */
-
 .field > p:nth-child(22) > a:nth-child(4) {
   margin-left: 5px;
 }
 
-<<<<<<< HEAD
 img {
 width: 350px;
 height: 70px;
 position: absolute;
 margin-left: -90px;
 }
+
 .nav > li > a {
 position: absolute;
 float: right;
 }
+
 drupal-bootstrap.css
 @media screen and (min-width: 1200px) {
 .navbar.container {
 max-width: 1140px;
 width: 100%;
 }
+
 }
 Inline #24
 #navbar {
@@ -133,6 +119,3 @@ width: 100%;
 max-width: 100%;
 margin-top: -13px;
 }
-=======
->>>>>>> 0b08b3a7a32250d68e0ce3c306e56fa6f1083357
-
