@@ -37,7 +37,6 @@ body {
   border-top: none;
   background-image: url(/themes/tkonventet2020/images/footer-back.svg);
   background-position: bottom;
-  background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
   padding-top: 120px;
@@ -297,4 +296,3 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 a {
 }
-
