@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="footer-background.svg"
+   sodipodi:docname="footer-back.svg"
    inkscape:export-filename="C:\Users\Emmi Isenstierna\Desktop\t-konvent\berg.png"
    inkscape:export-xdpi="645.59998"
    inkscape:export-ydpi="645.59998">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="655.51211"
-     inkscape:cy="200.71003"
+     inkscape:zoom="0.35"
+     inkscape:cx="1159.9523"
+     inkscape:cy="-290.9209"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      scale-x="1.00001"
-     units="mm" />
+     units="mm"
+     inkscape:measure-start="110,415.714"
+     inkscape:measure-end="352.857,445.714" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,12 +68,12 @@
      transform="translate(121.99866,-237.09816)">
     <path
        style="fill:#818180;fill-opacity:1;stroke:none;stroke-width:0.49018461px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -67.530699,253.93353 64.8661253,-5.44676 83.6822467,21.78709 36.146767,-11.38871 71.79838,17.33066 35.15646,-5.94195 76.00724,13.32683 0.0148,37.26716 -422.13998,-0.0876 v -83.68209 z"
+       d="m -67.530699,253.93353 64.8661253,-5.44676 83.6822467,21.78709 36.146767,-11.38871 52.14342,13.92884 48.15226,-17.29259 46.34706,-3.0126 36.33604,-15.38917 -0.002,83.74822 -422.13998,-0.0876 v -83.68209 z"
        id="path4518"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\Emmi Isenstierna\path4518.png"
        inkscape:export-xdpi="645.59998"
        inkscape:export-ydpi="645.59998"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>
