@@ -17,6 +17,17 @@
   border-bottom: none;
 }
 
+.region.region-header {
+
+    background-image: url(/themes/tkonventet2020/images/example.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+
+.js-quickedit-page-title.page-header {
+    text-align: center;
+}
 
 body {
    background-color: #e8e8e8;
