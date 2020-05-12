@@ -57,7 +57,6 @@ body {
   background-position: bottom;
   background-size: contain;
   background-repeat: repeat-x;
-  height: 27vh;
   padding-top: 17vh;
 }
 
@@ -335,7 +334,11 @@ https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css /
   }
 }
 
-
+@media (max-width: 600px){
+  .footer{
+    background-size: auto;
+  }
+}
 
 @media (min-width: 768px) {
   .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
