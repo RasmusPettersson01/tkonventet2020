@@ -12,21 +12,29 @@
 .region.region-header .navbar-text{
   float: none;
   text-align: center;
-}
-.page-header{
-  border-bottom: none;
+  color: white;
+  font-size: 3vh;
 }
 
 .region.region-header {
 
     background-image: url(/themes/tkonventet2020/images/example.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding: 15px;
+    height: 60vh;
+}
+.col-sm-12{
+  padding: 0px;
 }
 
-.js-quickedit-page-title.page-header {
-    text-align: center;
+
+.page-header {
+  padding-top: 22vh;
+  color: #fff;
+  text-align: center;
+  font-size: 7vh;
+  border-bottom: none;
 }
 
 body {
@@ -60,6 +68,14 @@ body {
 .region.region-footer a:hover {
     background-color: #e8e8e8;
     color: #3d3e3d;
+}
+
+a{
+  color: #42771e;
+}
+
+a:hover{
+  color:  #087433;
 }
 
 contextual-region.page.full.clearfix {
@@ -144,12 +160,6 @@ margin-top: -13px;
 }
 
 
-
-/* Element | https://08a68e7c.ngrok.io/ */
-
-.field > h2:nth-child(2) > a:nth-child(1) {
-  margin-left: 190px;
-}
 
 /* Element | https://08a68e7c.ngrok.io/ */
 
