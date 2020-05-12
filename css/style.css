@@ -41,6 +41,11 @@ body {
    background-color: #e8e8e8;
 }
 
+.comment-comment-form {
+    width: 100%;
+    margin: 0 140px;
+}
+
 .main-container.container.js-quickedit-main-content {
     min-height: 70vh;
 }
@@ -57,7 +62,6 @@ body {
   background-position: bottom;
   background-size: contain;
   background-repeat: repeat-x;
-  height: 27vh;
   padding-top: 17vh;
 }
 
@@ -326,6 +330,62 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css /
+@media (min-width: 768px) {
+  .navbar-header {
+    / float: left; /
+    float: none;
+  }
+}
+
+.nav > li > a {
+  / padding: 10px 15px; /
+  padding: 14px 15px;
+}
+
+@media (min-width: 992px) {
+  .container {
+    / width: 970px; /
+    width: 100%;
+  }
+}
+
+.navbar {
+  / margin-bottom: 20px; /
+  margin-bottom: 0px;
+}
+
+/ Element | http://08a68e7c.ngrok.io/en /
+
+.menu--account > li:nth-child(1) > a:nth-child(1) {
+  / padding-top: 0px; /
+  / padding-top: 1px; /
+  padding-top: 10px;
+  padding-left: 15px;
+}
+
+/ Element | http://08a68e7c.ngrok.io/en /
+
+#block-tkonventet2020-blixtlaset > ul:nth-child(2) > li:nth-child(1) > a:nth-child(1) {
+  padding-top: 10px;
+  padding-left: 15px;
+}
+
+/ drupal-bootstrap.css | https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.4.0/8.x-3.x/drupal-bootstrap.css /
+
+@media screen and (min-width: 992px) {
+  .navbar.container {
+    / max-width: 940px; /
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .navbar.container {
+    / max-width: 720px; */
+    min-width: 100%;
+  }
+}
+
 
 @media (min-width: 768px) {
   .navbar-nav > li {
@@ -335,7 +395,11 @@ https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css /
   }
 }
 
-
+@media (max-width: 600px){
+  .footer{
+    background-size: auto;
+  }
+}
 
 @media (min-width: 768px) {
   .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
