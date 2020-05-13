@@ -82,6 +82,12 @@ a:hover{
   color:  #087433;
 }
 
+.content .align-right {
+    position: relative;
+    height: auto;
+    margin: 30px;
+}
+
 contextual-region.page.full.clearfix {
   display: block;
 }
