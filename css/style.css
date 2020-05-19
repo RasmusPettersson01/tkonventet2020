@@ -145,6 +145,15 @@ p {
   margin-left: 5px;
 }
 
+.links.inline.list-inline{
+  margin-left: 140px;
+  margin-top: 10px;
+}
+
+.list-inline > li {
+  padding: 0px;
+}
+
 img {
 width: 350px;
 height: 70px;
@@ -156,6 +165,7 @@ margin-left: -90px;
 margin-top: 30px;
 float: right;
 }
+
 
 drupal-bootstrap.css
 @media screen and (min-width: 1200px) {
